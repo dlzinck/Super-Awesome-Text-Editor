@@ -28,6 +28,7 @@ When I open my application in my editor I should see a client server folder stru
 ## Links
 
 - [GitHub Repository](https://github.com/dlzinck/Super-Awesome-Text-Editor)
+- [Deployed Application](https://gentle-bastion-59297.herokuapp.com/)
 
 ## Installation
 
